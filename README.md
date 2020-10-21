@@ -1,2 +1,2 @@
 # Gitdemo
-Learning purpose in Cerner
+Learning purpose
